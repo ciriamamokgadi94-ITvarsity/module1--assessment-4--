@@ -1,0 +1,20 @@
+th{
+    background-color: aqua;
+    font-family: sans-serif;
+    border: double;
+    color: white;
+    font-size: 800;
+    text-align: center;
+}
+tr{
+    font-family: sans-serif;
+    text-align: center;
+    font-synthesis: style;
+    background-color: antiquewhite;
+}
+table{
+    border-collapse: collapse;
+    border-width: 2px;
+    border-style: inherit;
+    border-color: red;
+}
